@@ -1,5 +1,8 @@
 # goals
 
+Purpose:
+- A way for me to better track my goals
+
 Future State:
 - A web app that tracks goals on a strict time basis
     - Timelines include:
@@ -8,10 +11,6 @@ Future State:
         - Monthly
         - Semi-Annual
         - Annual
-
-Purpose:
-- A way for me to better track my goals
-
 
 Functionality:
 - Contains a list of goals
